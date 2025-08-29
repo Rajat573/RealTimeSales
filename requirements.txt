@@ -1,0 +1,8 @@
+tensorflow-macos
+tensorflow-metal
+streamlit
+spacy
+pandas
+scikit-learn
+yfinance
+joblib
